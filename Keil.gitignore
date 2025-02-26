@@ -1,0 +1,29 @@
+# Keil 工程文件
+.uvguix.
+.uvoptx
+.uvprojx.user
+.crf
+.d
+.dep
+.bat
+
+# 编译输出
+Objects
+Listings
+.axf
+.hex
+.bin
+.map
+.htm
+
+# 系统与缓存
+.DS_Store
+Thumbs.db
+.~
+DebugConfig
+JLinkLog.txt
+
+# 本地调试文件
+.ini
+.log
+.history
