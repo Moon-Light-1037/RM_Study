@@ -3,16 +3,16 @@
         {
             "name": "Target13",
             "includePath": [
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Core\\Inc",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Core\\Inc",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Drivers\\CMSIS\\Include",
                 "E:\\Keil_5 C51\\ARM\\ARMCC\\include",
                 "E:\\Keil_5 C51\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\MDK-ARM",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Core\\Src",
-                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\MDK-ARM",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Core\\Src",
+                "c:\\Users\\J\\Desktop\\RM_Study\\Target13\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
