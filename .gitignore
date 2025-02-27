@@ -1,52 +1,19 @@
-# Prerequisites
-*.d
+# 一般可执行文件
+/**/*.exe
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Keil-DefaultCompiler工程忽略项
+/**/MDK-ARM/*
+# 不忽略Keil工程配置文件
+!/**/MDK-ARM/*.uvoptx
+!/**/MDK-ARM/*.uvprojx
+!/**/MDK-ARM/startup_*.s
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# armgcc-cmake工程忽略项
+/**/cmake-build-debug
 
-# Precompiled Headers
-*.gch
-*.pch
+# VsCode编辑器忽略项
+/**/.vscode
+/**/workspace.code-workspace
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Clion编辑器忽略项
+/**/.idea
