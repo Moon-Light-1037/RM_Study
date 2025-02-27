@@ -17,3 +17,5 @@
 
 # Clion编辑器忽略项
 /**/.idea
+
+#参考自 https://github.com/yssickjgd/robowalker_train/blob/main/.gitignore#L6C1-L24C10 
